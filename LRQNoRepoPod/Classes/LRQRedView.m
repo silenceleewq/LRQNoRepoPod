@@ -15,6 +15,7 @@
     self = [super initWithFrame:frame];
     if (self) {
         self.backgroundColor = [UIColor redColor];
+        ///添加了好多注释呢
     }
     return self;
 }
